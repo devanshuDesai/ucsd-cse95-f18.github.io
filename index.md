@@ -120,8 +120,8 @@ you will be graded on:
         - 1: late for class
         - 0: absent
 
-        If you miss more than 2 points in in-class participation (i.e. miss more than
-        one class or be late for more than 2 classes), you will fail this class.
+        If you miss more than 4 points in in-class participation (i.e. miss more than
+        2 classes or be late for more than 4 classes), you will fail this class.
         Imminent failure of CSE 95 will put your employment in jeopardy.
 
     2. Attending lectures for the class that you tutor for.
