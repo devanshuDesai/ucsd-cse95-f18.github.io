@@ -168,6 +168,20 @@ assignments are so short (1 hour outside of class, on average), you should be
 able to complete them even if you are sick at some point during the week, by
 managing your time appropriately.
 
+### Payment Information
+
+To get paid for your tutoring hours, submit your hours biweekly into MyTime: http://mytime.ucsd.edu/
+Instructions for using MyTime can be found here: http://blink.ucsd.edu/finance/payroll/timekeeping/mte/index.html
+
+Please note that if your Business Systems account is not yet activated, you will not be able to access MyTime or Direct Deposit until it is set up. In this case, you will need to fill out the paper timecards sent to you, get them signed by the instructor you are tutoring for, and turn them in the CSE Student Affairs drop box. 
+
+Instructions for setting up Direct Deposit can be found here: http://blink.ucsd.edu/finance/payroll/processes/enroll.html
+If you have not set up Direct Deposit, your checks can be picked up from CSE Faculty Assistant, James Martinez in CSE 2225.
+
+Payment policy: 
+- CSE 95 tutors are required to attend class lectures and staff meetings of the course they are tutoring for. Since this is part of the CSE 95 class, tutors are not paid for these hours for the quarter they are enrolled in CSE 95.
+- Otherwise, the hours you are paid for are determined by your instructor and vary per class. Some examples of hours you may be paid for are: office hours, grading, leading discussions, leading quiz reviews, answering Piazza posts, etc. 
+
 ### Technology Policy
 Technology use in CSE 95, and in the course you are tutoring, should be limited to activities explicitly authorized by the instructor in direct support of your duties in the course.  This means you should keep all devices away unless you have been specifically instructed to use them, and then use them only for the assigned activities.
 
