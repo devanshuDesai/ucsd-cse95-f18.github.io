@@ -108,7 +108,7 @@ you will be graded on:
    - 1: your work shows that you haven't put much time in it or you didn't finish all the required readings or assignments before class
    - 0: no work was submitted on time
 
-    If your weekly assignments total is less than 80%, you will fail this class 
+    If your weekly assignments total is less than 80%, you will fail this class. 
 
 2. Participation
 
