@@ -170,7 +170,7 @@ managing your time appropriately.
 
 ### Payment Information
 
-To get paid for your tutoring hours, submit your hours biweekly into MyTime: http://mytime.ucsd.edu/
+To get paid for your tutoring hours, submit your hours biweekly into MyTime: http://mytime.ucsd.edu/. 
 Instructions for using MyTime can be found here: http://blink.ucsd.edu/finance/payroll/timekeeping/mte/index.html
 
 Please note that if your Business Systems account is not yet activated, you will not be able to access MyTime or Direct Deposit until it is set up. In this case, you will need to fill out the paper timecards sent to you, get them signed by the instructor you are tutoring for, and turn them in the CSE Student Affairs drop box. 
