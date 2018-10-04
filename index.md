@@ -104,9 +104,9 @@ you will be graded on:
     due before the next class session.  Your responses are graded with the
     following scale:
 
-    2 : thoughtful and complete. 
-    1: your work shows that you haven't put much time in it or you didn't finish all the required readings or assignments before class
-    0: no work was submitted on time
+   - 2: thoughtful and complete. 
+   - 1: your work shows that you haven't put much time in it or you didn't finish all the required readings or assignments before class
+   - 0: no work was submitted on time
 
     If your weekly assignments total is less than 80%, you will fail this class 
 
