@@ -175,7 +175,7 @@ Instructions for using MyTime can be found here: http://blink.ucsd.edu/finance/p
 
 Please note that if your Business Systems account is not yet activated, you will not be able to access MyTime or Direct Deposit until it is set up. In this case, you will need to fill out the paper timecards sent to you, get them signed by the instructor you are tutoring for, and turn them in the CSE Student Affairs drop box. 
 
-Instructions for setting up Direct Deposit can be found here: http://blink.ucsd.edu/finance/payroll/processes/enroll.html
+Instructions for setting up Direct Deposit can be found here: http://blink.ucsd.edu/finance/payroll/processes/enroll.html.
 If you have not set up Direct Deposit, your checks can be picked up from CSE Faculty Assistant, James Martinez in CSE 2225.
 
 Payment policy: 
