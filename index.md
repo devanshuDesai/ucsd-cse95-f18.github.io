@@ -127,9 +127,9 @@ you will be graded on:
     2. Attending lectures for the class that you tutor for.
 
         - You should attend all the lectures that you tutor for this entire quarter and pay attend in what is covered in class and help with various tasks during lectures.
-        - We will designate record keepers for each CSE course that has hired new tutors. The record keeper will keep track of lecture attendance of new tutors and the instructor of the course will sign off the attendance sheet on a weekly basis.
+        - You will determine a record keepers among yourselves for each CSE course that has hired new tutors. The record keeper will keep track of lecture attendance of new tutors and the instructor of the course will sign off the attendance sheet on a weekly basis.
         - Record any and all special occasions for the attendance (i.e. put "N/A" if there is no staff meeting/lecture that week, put "Midterm" if the lecture was in-class exam), and highlight the cells for which the tutors are absent for.
-
+    Please fill out the [attendance sheet](https://docs.google.com/spreadsheets/d/1wn9lxwIKcCbWhaBEukp-4w0rCvLMd7q0cfT46EInaVo/edit#gid=0) weekly and submit in CSE 95 class every week to get credit for this.
     If you miss more than 10% of the lectures that you should attend, you will fail this class.
 
 ## Diversity and Inclusion
