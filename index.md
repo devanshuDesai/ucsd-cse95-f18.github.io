@@ -12,7 +12,7 @@ Welcome to CSE 95: Tutor Training. This course is intended to help you become a 
 
 * <a href="#syllabus">Syllabus</a>  
 
-* <a href="https://piazza.com/ucsd/fall2018/cse95"> Piazza </a>
+* <a href="https://piazza.com/ucsd/fall2018/cse95">Piazza</a>
 
 * <a href="#schedule">Schedule & Assignments </a>
 
